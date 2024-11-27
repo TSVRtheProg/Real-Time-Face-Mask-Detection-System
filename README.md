@@ -21,18 +21,16 @@ The major goal of this project is to automate the process of monitoring face mas
 
 The dataset consists of images categorized into two classes: "with_mask" and "without_mask". The images were preprocessed to a target size of 224x224 pixels before being fed into the model.
 
-# Face Mask Detection Project
-
 ## Steps to Perform
 
 ### 1. Installation 🛠️
-To get started with this project, we installed the necessary dependencies:
+To get started with this project, install the necessary dependencies:
 - `imutils`
 - `opencv-python`
 - `tensorflow`
 
 ### 2. Model Training 🧠
-The face mask detection model was built using the MobileNetV2 architecture, which is a lightweight and efficient convolutional neural network. The model was fine-tuned on our dataset to classify images into the two categories.
+The face mask detection model was built using the MobileNetV2 architecture, which is a lightweight and efficient convolutional neural network. The model was fine-tuned on the dataset to classify images into the two categories.
 
 **Key Steps in Model Training:**
 
@@ -73,7 +71,7 @@ The system was tested in real-time  and was able to accurately detect face masks
 
 ## Conclusion 🏁
 
-The face mask detection system obtained good accuracy during both the training and validation stages. It can detect face masks in real time, making it a useful solution for checking compliance with health rules. The project highlights the effectiveness of integrating deep learning with computer vision to solve problems in the real world.
+The face mask detection system obtained good accuracy during both the training and validation stages. It can detect face masks in real time, making it a useful solution. The project highlights the effectiveness of integrating deep learning with computer vision to solve problems in the real world.
 
 ---
 
