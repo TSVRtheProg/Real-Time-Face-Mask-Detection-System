@@ -6,11 +6,11 @@ This project is to develop a real-time face mask detection system utilizing deep
 
 ## Contents 📚
   - **Project Goals 🎯**
-  - 
+    
   - **Datasets Used 📊**
-  - 
+    
   - **Steps to Perform**
-  - 
+    
   - **Conclusion 🏁**
 
 ## Project Goals 🎯
@@ -77,4 +77,4 @@ The face mask detection system obtained good accuracy during both the training a
 
 ---
 
-**_Data science is like a puzzle – sometimes the pieces don't fit, but with enough coffee and Google searches, they magically do!_** 😄☕
+## **_Data science is like a puzzle – sometimes the pieces don't fit, but with enough coffee and Google searches, they magically do!_** 😄☕
